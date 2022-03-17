@@ -1,0 +1,54 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/rainyzhao/Desktop/大二课程/CSC173/Project5/CSC173 Project 5 Boolean Circuit Simulator/Boolean.h
+stdbool.h
+-
+
+/Users/rainyzhao/Desktop/大二课程/CSC173/Project5/CSC173 Project 5 Boolean Circuit Simulator/Circuit.h
+Gates.h
+/Users/rainyzhao/Desktop/大二课程/CSC173/Project5/CSC173 Project 5 Boolean Circuit Simulator/Gates.h
+
+/Users/rainyzhao/Desktop/大二课程/CSC173/Project5/CSC173 Project 5 Boolean Circuit Simulator/Gates.h
+Boolean.h
+/Users/rainyzhao/Desktop/大二课程/CSC173/Project5/CSC173 Project 5 Boolean Circuit Simulator/Boolean.h
+
+/Users/rainyzhao/Desktop/大二课程/CSC173/Project5/CSC173 Project 5 Boolean Circuit Simulator/ParseTree.h
+Parser.h
+/Users/rainyzhao/Desktop/大二课程/CSC173/Project5/CSC173 Project 5 Boolean Circuit Simulator/Parser.h
+
+/Users/rainyzhao/Desktop/大二课程/CSC173/Project5/CSC173 Project 5 Boolean Circuit Simulator/Parser.h
+stdbool.h
+-
+Boolean.h
+/Users/rainyzhao/Desktop/大二课程/CSC173/Project5/CSC173 Project 5 Boolean Circuit Simulator/Boolean.h
+Circuit.h
+/Users/rainyzhao/Desktop/大二课程/CSC173/Project5/CSC173 Project 5 Boolean Circuit Simulator/Circuit.h
+Stack.h
+/Users/rainyzhao/Desktop/大二课程/CSC173/Project5/CSC173 Project 5 Boolean Circuit Simulator/Stack.h
+
+/Users/rainyzhao/Desktop/大二课程/CSC173/Project5/CSC173 Project 5 Boolean Circuit Simulator/Stack.h
+stdbool.h
+-
+
+/Users/rainyzhao/Desktop/大二课程/CSC173/Project5/CSC173 Project 5 Boolean Circuit Simulator/main.c
+stdio.h
+-
+stdlib.h
+-
+math.h
+-
+string.h
+-
+Circuit.h
+/Users/rainyzhao/Desktop/大二课程/CSC173/Project5/CSC173 Project 5 Boolean Circuit Simulator/Circuit.h
+ParseTree.h
+/Users/rainyzhao/Desktop/大二课程/CSC173/Project5/CSC173 Project 5 Boolean Circuit Simulator/ParseTree.h
+Parser.h
+/Users/rainyzhao/Desktop/大二课程/CSC173/Project5/CSC173 Project 5 Boolean Circuit Simulator/Parser.h
+

@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="CSC173_Project_5_Boolean_Circuit_Simulator"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/Users/rainyzhao/Desktop/大二课程/CSC173/Project5/CSC173 Project 5 Boolean Circuit Simulator/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/rainyzhao/Desktop/大二课程/CSC173/Project5/CSC173\ Project\ 5\ Boolean\ Circuit\ Simulator/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/rainyzhao/Desktop/大二课程/CSC173/Project5/CSC173\ Project\ 5\ Boolean\ Circuit\ Simulator/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/rainyzhao/Desktop/大二课程/CSC173/Project5/CSC173\ Project\ 5\ Boolean\ Circuit\ Simulator/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/rainyzhao/Desktop/大二课程/CSC173/Project5/CSC173\ Project\ 5\ Boolean\ Circuit\ Simulator/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/Users/rainyzhao/Desktop/大二课程/CSC173/Project5/CSC173 Project 5 Boolean Circuit Simulator/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/rainyzhao/Desktop/大二课程/CSC173/Project5/CSC173\ Project\ 5\ Boolean\ Circuit\ Simulator/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/rainyzhao/Desktop/大二课程/CSC173/Project5/CSC173\ Project\ 5\ Boolean\ Circuit\ Simulator/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/rainyzhao/Desktop/大二课程/CSC173/Project5/CSC173\ Project\ 5\ Boolean\ Circuit\ Simulator/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/rainyzhao/Desktop/大二课程/CSC173/Project5/CSC173\ Project\ 5\ Boolean\ Circuit\ Simulator/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/Users/rainyzhao/Desktop/大二课程/CSC173/Project5/CSC173 Project 5 Boolean Circuit Simulator/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/rainyzhao/Desktop/大二课程/CSC173/Project5/CSC173\ Project\ 5\ Boolean\ Circuit\ Simulator/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/rainyzhao/Desktop/大二课程/CSC173/Project5/CSC173\ Project\ 5\ Boolean\ Circuit\ Simulator/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/rainyzhao/Desktop/大二课程/CSC173/Project5/CSC173\ Project\ 5\ Boolean\ Circuit\ Simulator/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/rainyzhao/Desktop/大二课程/CSC173/Project5/CSC173\ Project\ 5\ Boolean\ Circuit\ Simulator/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="CSC173_Project_5_Boolean_Circuit_Simulator">
+				<Option output="/Users/rainyzhao/Desktop/大二课程/CSC173/Project5/CSC173 Project 5 Boolean Circuit Simulator/cmake-build-debug/CSC173_Project_5_Boolean_Circuit_Simulator" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/rainyzhao/Desktop/大二课程/CSC173/Project5/CSC173 Project 5 Boolean Circuit Simulator/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Users/rainyzhao/Desktop/大二课程/CSC173/Project5/CSC173 Project 5 Boolean Circuit Simulator/."/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/10.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/rainyzhao/Desktop/大二课程/CSC173/Project5/CSC173\ Project\ 5\ Boolean\ Circuit\ Simulator/cmake-build-debug/Makefile&quot;  VERBOSE=1 CSC173_Project_5_Boolean_Circuit_Simulator"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/rainyzhao/Desktop/大二课程/CSC173/Project5/CSC173\ Project\ 5\ Boolean\ Circuit\ Simulator/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/rainyzhao/Desktop/大二课程/CSC173/Project5/CSC173\ Project\ 5\ Boolean\ Circuit\ Simulator/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/rainyzhao/Desktop/大二课程/CSC173/Project5/CSC173\ Project\ 5\ Boolean\ Circuit\ Simulator/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="CSC173_Project_5_Boolean_Circuit_Simulator/fast">
+				<Option output="/Users/rainyzhao/Desktop/大二课程/CSC173/Project5/CSC173 Project 5 Boolean Circuit Simulator/cmake-build-debug/CSC173_Project_5_Boolean_Circuit_Simulator" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/rainyzhao/Desktop/大二课程/CSC173/Project5/CSC173 Project 5 Boolean Circuit Simulator/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Users/rainyzhao/Desktop/大二课程/CSC173/Project5/CSC173 Project 5 Boolean Circuit Simulator/."/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/10.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/rainyzhao/Desktop/大二课程/CSC173/Project5/CSC173\ Project\ 5\ Boolean\ Circuit\ Simulator/cmake-build-debug/Makefile&quot;  VERBOSE=1 CSC173_Project_5_Boolean_Circuit_Simulator/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/rainyzhao/Desktop/大二课程/CSC173/Project5/CSC173\ Project\ 5\ Boolean\ Circuit\ Simulator/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/rainyzhao/Desktop/大二课程/CSC173/Project5/CSC173\ Project\ 5\ Boolean\ Circuit\ Simulator/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/rainyzhao/Desktop/大二课程/CSC173/Project5/CSC173\ Project\ 5\ Boolean\ Circuit\ Simulator/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/Users/rainyzhao/Desktop/大二课程/CSC173/Project5/CSC173 Project 5 Boolean Circuit Simulator/Boolean.c">
+			<Option target="CSC173_Project_5_Boolean_Circuit_Simulator"/>
+		</Unit>
+		<Unit filename="/Users/rainyzhao/Desktop/大二课程/CSC173/Project5/CSC173 Project 5 Boolean Circuit Simulator/Boolean.h">
+			<Option target="CSC173_Project_5_Boolean_Circuit_Simulator"/>
+		</Unit>
+		<Unit filename="/Users/rainyzhao/Desktop/大二课程/CSC173/Project5/CSC173 Project 5 Boolean Circuit Simulator/Circuit.c">
+			<Option target="CSC173_Project_5_Boolean_Circuit_Simulator"/>
+		</Unit>
+		<Unit filename="/Users/rainyzhao/Desktop/大二课程/CSC173/Project5/CSC173 Project 5 Boolean Circuit Simulator/Circuit.h">
+			<Option target="CSC173_Project_5_Boolean_Circuit_Simulator"/>
+		</Unit>
+		<Unit filename="/Users/rainyzhao/Desktop/大二课程/CSC173/Project5/CSC173 Project 5 Boolean Circuit Simulator/Gates.c">
+			<Option target="CSC173_Project_5_Boolean_Circuit_Simulator"/>
+		</Unit>
+		<Unit filename="/Users/rainyzhao/Desktop/大二课程/CSC173/Project5/CSC173 Project 5 Boolean Circuit Simulator/Gates.h">
+			<Option target="CSC173_Project_5_Boolean_Circuit_Simulator"/>
+		</Unit>
+		<Unit filename="/Users/rainyzhao/Desktop/大二课程/CSC173/Project5/CSC173 Project 5 Boolean Circuit Simulator/ParseTree.c">
+			<Option target="CSC173_Project_5_Boolean_Circuit_Simulator"/>
+		</Unit>
+		<Unit filename="/Users/rainyzhao/Desktop/大二课程/CSC173/Project5/CSC173 Project 5 Boolean Circuit Simulator/ParseTree.h">
+			<Option target="CSC173_Project_5_Boolean_Circuit_Simulator"/>
+		</Unit>
+		<Unit filename="/Users/rainyzhao/Desktop/大二课程/CSC173/Project5/CSC173 Project 5 Boolean Circuit Simulator/Parser.c">
+			<Option target="CSC173_Project_5_Boolean_Circuit_Simulator"/>
+		</Unit>
+		<Unit filename="/Users/rainyzhao/Desktop/大二课程/CSC173/Project5/CSC173 Project 5 Boolean Circuit Simulator/Parser.h">
+			<Option target="CSC173_Project_5_Boolean_Circuit_Simulator"/>
+		</Unit>
+		<Unit filename="/Users/rainyzhao/Desktop/大二课程/CSC173/Project5/CSC173 Project 5 Boolean Circuit Simulator/Stack.c">
+			<Option target="CSC173_Project_5_Boolean_Circuit_Simulator"/>
+		</Unit>
+		<Unit filename="/Users/rainyzhao/Desktop/大二课程/CSC173/Project5/CSC173 Project 5 Boolean Circuit Simulator/Stack.h">
+			<Option target="CSC173_Project_5_Boolean_Circuit_Simulator"/>
+		</Unit>
+		<Unit filename="/Users/rainyzhao/Desktop/大二课程/CSC173/Project5/CSC173 Project 5 Boolean Circuit Simulator/main.c">
+			<Option target="CSC173_Project_5_Boolean_Circuit_Simulator"/>
+		</Unit>
+		<Unit filename="/Users/rainyzhao/Desktop/大二课程/CSC173/Project5/CSC173 Project 5 Boolean Circuit Simulator/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>
